@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1545022155 source:c:\users\dad\desktop\statsbuilder\main.c
+	<stdio.h>
+	<stdlib.h>
+
